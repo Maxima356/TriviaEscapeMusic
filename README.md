@@ -1,7 +1,7 @@
 # Trivia Escape Music
 
 ![Lethal Company](https://img.shields.io/badge/Lethal%20Company-Mod-orange?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.1-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.2.1-blue?style=for-the-badge)
 ![Thunderstore](https://img.shields.io/badge/Thunderstore-Download-success?style=for-the-badge)
 
 A custom apparatus escape music mod for Lethal Company, featuring a reversed and modified Tower Unite "Sunshine Day" track with escalating intensity.
@@ -91,3 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Enjoying the mod? Give it a ⭐ on GitHub and consider checking out LethalReloaded!**
+
