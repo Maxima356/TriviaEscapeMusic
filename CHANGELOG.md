@@ -1,12 +1,12 @@
 # Changelog
 
-## [1.0.1] - 2025-11-29
+## [1.2.1] - 2025-11-29
 
 ### Changed
 
 - Updated Readme, Licence, Changelog
 
-## [1.0.0] - 2025-02-27
+## [1.2.0] - 2025-02-27
 
 ### Added
 - Initial release of TriviaEscapeMusic
