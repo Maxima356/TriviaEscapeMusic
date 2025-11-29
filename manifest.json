@@ -1,0 +1,7 @@
+{
+  "name": "TriviaEscapeMusic",
+  "version_number": "1.2.0",
+  "website_url": "",
+  "description": "Apparatus Escape Music . Do you also like Trivia ost?",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
