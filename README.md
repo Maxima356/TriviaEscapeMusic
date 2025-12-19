@@ -4,9 +4,7 @@
 ![Version](https://img.shields.io/badge/version-1.2.1-blue?style=for-the-badge)
 ![Thunderstore](https://img.shields.io/badge/Thunderstore-Download-success?style=for-the-badge)
 
-A custom apparatus escape music mod for Lethal Company, featuring a reversed and modified Tower Unite "Sunshine Day" track with escalating intensity.
-
-> *I like this one because it's a reference to Tower Unite and I think it goes really well when you get the apparatus back!*
+A custom apparatus escape music mod for Lethal Company.
 
 ## 🎵 Features
 
@@ -27,6 +25,7 @@ When a player takes the **apparatus**, this mod triggers:
 ### Prerequisites
 - [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) installed
 - [PizzaTowerEscapeMusic](https://thunderstore.io/c/lethal-company/p/BGN/PizzaTowerEscapeMusic/) (base mod)
+### - [FacilityMeltdownExperimental](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (More immersion) **(USE Experimental VERSION!)**
 
 ### Steps
 1. Download the latest version from [Thunderstore](https://thunderstore.io/c/lethal-company/p/Maxima356/TriviaEscapeMusic/)

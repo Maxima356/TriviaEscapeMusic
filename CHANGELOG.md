@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.2] - 2025-12-19
+
+### Added
+
+- Dependency added : FacilityMeltdownExperimental
+
 ## [1.2.1] - 2025-11-29
 
 ### Changed
