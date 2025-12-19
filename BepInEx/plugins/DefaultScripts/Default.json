@@ -51,7 +51,7 @@
     ],
     "scriptEvents": [
         {
-            "comment": "Musqiue aléatoire ApparatusTaken",
+            "comment": "Musique aléatoire ApparatusTaken",
             "scriptEventType": "PlayMusic",
             "gameEventType": "ApparatusTaken",
             "overlapHandling": "OverrideTag",
@@ -59,7 +59,9 @@
             "musicNames": [
                 "Alarm_01.ogg",
                 "Alarm_02.ogg",
-                "Alarm_03.ogg"
+                "Alarm_03.ogg",
+                "Alarm_04.ogg",
+                "Alarm_05.ogg"
             ]
         },
         {

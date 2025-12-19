@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.5] - 2025-12-20
+
+### Added
+
+- +2 random alarm sound variations
+- Updated Readme, Changelog, Wiki
+- Repo Github
+
 ## [1.2.2] - 2025-12-19
 
 ### Added
