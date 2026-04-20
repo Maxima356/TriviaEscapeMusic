@@ -1,7 +1,7 @@
 # Trivia Escape Music
 
 ![Lethal Company](https://img.shields.io/badge/Lethal%20Company-Mod-orange?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.2.5-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.3.0-blue?style=for-the-badge)
 ![Thunderstore](https://img.shields.io/badge/Thunderstore-Download-success?style=for-the-badge)
 
 A custom apparatus escape music mod for Lethal Company.
@@ -25,7 +25,7 @@ When a player takes the **apparatus**, this mod triggers:
 ### Prerequisites
 - [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) installed
 - [PizzaTowerEscapeMusic](https://thunderstore.io/c/lethal-company/p/BGN/PizzaTowerEscapeMusic/) (base mod)
-### - [FacilityMeltdownExperimental](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdownExperimental/) (More immersion) **(USE Experimental VERSION!)**
+- [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) (More immersion)
 
 ### Steps
 1. Download the latest version from [Thunderstore](https://thunderstore.io/c/lethal-company/p/Maxima356/TriviaEscapeMusic/)
